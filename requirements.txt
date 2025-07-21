@@ -32,4 +32,5 @@ numexpr
 huggingface_hub
 
 validators==0.28.1
-youtube_transcript_api
+youtube-transcript-api==0.6.1
+
